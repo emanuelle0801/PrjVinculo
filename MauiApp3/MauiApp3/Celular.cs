@@ -12,6 +12,6 @@ namespace MauiApp3
         public string Marca { get; set; }
         public int Numero { get; set; }
         public string Operadora { get; set; }
-
+        public bool Capinha { get; set; }
     }
 }
